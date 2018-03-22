@@ -1,0 +1,29 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Welcome to Wooou's Blog\n\n\n\u8017\u8d391\u5c0f\u65f6\u6253\u9020\u7684\u535a\u5ba2(\uffe3\u25bd\uffe3)~*\n\n\nBlog\n\n\n2018-3-17\n\n\nMMP,\u6211\u9760\uff0c\u5728\u5fae\u535a\u4e0a\u770b\u89c1\u4e86\u5173\u4e8e\nMkdocs\n\u6846\u67b6\u7684\u4fe1\u606f\uff0c\u6240\u4ee5\u5c31\u62ff\u6765\u8bd5\u4e86\u4e00\u8bd5~",
+            "title": "Home"
+        },
+        {
+            "location": "/#welcome-to-wooous-blog",
+            "text": "\u8017\u8d391\u5c0f\u65f6\u6253\u9020\u7684\u535a\u5ba2(\uffe3\u25bd\uffe3)~*",
+            "title": "Welcome to Wooou's Blog"
+        },
+        {
+            "location": "/#blog",
+            "text": "",
+            "title": "Blog"
+        },
+        {
+            "location": "/#2018-3-17",
+            "text": "MMP,\u6211\u9760\uff0c\u5728\u5fae\u535a\u4e0a\u770b\u89c1\u4e86\u5173\u4e8e Mkdocs \u6846\u67b6\u7684\u4fe1\u606f\uff0c\u6240\u4ee5\u5c31\u62ff\u6765\u8bd5\u4e86\u4e00\u8bd5~",
+            "title": "2018-3-17"
+        },
+        {
+            "location": "/about/",
+            "text": "",
+            "title": "About"
+        }
+    ]
+}
